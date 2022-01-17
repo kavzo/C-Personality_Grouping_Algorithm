@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APM1A_Supp_216059167/1.0.0": {
+        "runtime": {
+          "APM1A_Supp_216059167.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APM1A_Supp_216059167/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

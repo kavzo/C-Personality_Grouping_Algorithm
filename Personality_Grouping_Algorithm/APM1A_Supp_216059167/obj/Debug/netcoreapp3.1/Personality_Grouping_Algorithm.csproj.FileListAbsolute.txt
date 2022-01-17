@@ -1,0 +1,12 @@
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.exe
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.deps.json
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.runtimeconfig.json
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.runtimeconfig.dev.json
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.dll
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.pdb
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.AssemblyInfoInputs.cache
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.AssemblyInfo.cs
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.dll
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.pdb
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\Personality_Grouping_Algorithm.genruntimeconfig.cache

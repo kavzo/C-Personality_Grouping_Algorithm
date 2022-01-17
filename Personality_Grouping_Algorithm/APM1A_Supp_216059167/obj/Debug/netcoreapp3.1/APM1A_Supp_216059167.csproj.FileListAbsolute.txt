@@ -1,0 +1,26 @@
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.exe
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.deps.json
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.runtimeconfig.json
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.runtimeconfig.dev.json
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.dll
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.pdb
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.csprojAssemblyReference.cache
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.AssemblyInfoInputs.cache
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.AssemblyInfo.cs
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.csproj.CoreCompileInputs.cache
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.dll
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.pdb
+C:\Users\kavis\OneDrive\Desktop\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.genruntimeconfig.cache
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.exe
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.deps.json
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.runtimeconfig.json
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.runtimeconfig.dev.json
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.dll
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\bin\Debug\netcoreapp3.1\APM1A_Supp_216059167.pdb
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.csprojAssemblyReference.cache
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.AssemblyInfoInputs.cache
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.AssemblyInfo.cs
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.csproj.CoreCompileInputs.cache
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.dll
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.pdb
+C:\Users\kavis\OneDrive\Desktop\uj archive\2. ABIT\Advanced programming\Supplementary Exam\APM1A_Supp_216059167\APM1A_Supp_216059167\obj\Debug\netcoreapp3.1\APM1A_Supp_216059167.genruntimeconfig.cache
